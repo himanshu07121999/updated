@@ -1,0 +1,26 @@
+
+#reset{
+    background-color: cornflowerblue;
+    border-radius: 20px;
+    width: 150px;
+    height: 30px;
+    margin-top:30px;
+    left:48%;
+    position: absolute;
+}
+#email-new{
+    width: 150px;
+    height: 30px;
+    margin-top:30px;
+    margin-left: 20px;
+}
+.forget-pass{
+ text-align: center;
+color: #E15D44;
+}
+#title{
+text-align: center;
+margin-top:30px;
+font-weight: bold;
+color:#0072B5;
+}
